@@ -14,6 +14,4 @@ public class SpringCoreDevOpsApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
-
-
 }
