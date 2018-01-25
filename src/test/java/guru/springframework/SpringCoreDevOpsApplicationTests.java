@@ -11,6 +11,7 @@ import org.springframework.test.context.web.WebAppConfiguration;
 @WebAppConfiguration
 public class SpringCoreDevOpsApplicationTests {
 
+	//
 	@Test
 	public void contextLoads() {
 	}
